@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SwiftyExtensions_Tests' do
+  pod 'SwiftyExtensions', :path => '../'
+  
+  
+end
